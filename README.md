@@ -1,0 +1,2 @@
+# GoodStarter-Platform
+GoodStarter
